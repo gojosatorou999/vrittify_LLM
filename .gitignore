@@ -1,0 +1,20 @@
+# Virtual environments / Caches
+__pycache__/
+*.pyc
+.env
+
+# Large binaries and tools
+llama-cpp/
+ngrok/
+vc_extract/
+vc_redist.x64.exe
+
+# Models (too large for GitHub)
+models/
+*.gguf
+
+# Logs
+llama_stdout.txt
+llama_stderr.txt
+api_stdout.txt
+api_stderr.txt
