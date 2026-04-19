@@ -10,7 +10,7 @@ No cloud, no API keys, total privacy!
 - **Dynamic Frontend GUI:** Beautiful glassmorphism UI integrated straight into the index route (`GET /`).
 - **Team Ready:** Fully compatible with Ngrok tunneling allowing seamless sharing of your secure local engine to remote teammates.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## Getting Started
 
